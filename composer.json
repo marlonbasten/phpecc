@@ -1,5 +1,5 @@
 {
-    "name": "mdanter/ecc",
+    "name": "marlonbasten/ecc",
     "description": "PHP Elliptic Curve Cryptography library",
     "type": "library",
     "homepage": "https://github.com/phpecc/phpecc",
@@ -20,6 +20,11 @@
         {
             "name": "Thomas Kerin",
             "email": "afk11@users.noreply.github.com",
+            "role": "Maintainer"
+        },
+        {
+            "name": "Marlon Basten",
+            "email": "mabasten@pm.me",
             "role": "Maintainer"
         }
     ],
